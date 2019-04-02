@@ -1,0 +1,17 @@
+{
+	"name": "theme-Hbuilder",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hbuilder",
+				"uiTheme": "vs",
+				"path": "./themes/hbuilder-color-theme.json"
+			}
+		]
+	}
+}
