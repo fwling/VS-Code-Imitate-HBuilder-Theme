@@ -40,7 +40,7 @@
 			"name": "Regexp",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#D30102"
+				"foreground": "#01010100"
 			}
 		},
 		{
@@ -148,7 +148,7 @@
 				"keyword.other.new"
 			],
 			"settings": {
-				"foreground": "#D30102"
+				"foreground": "#577909"
 			}
 		},
 		{
@@ -400,7 +400,7 @@
 		// "editor.inactiveSelectionBackground": "",
 		// "editor.lineHighlightBorder": "",
 		// "editor.rangeHighlightBackground": "",
-		"editor.selectionHighlightBackground": "#FFFAE8",
+		"editor.selectionHighlightBackground": "#FFFAE800", //光标所在位置函数、变量、等的背景色
 		// "editor.wordHighlightBackground": "",
 		// "editor.wordHighlightStrongBackground": "",
 
