@@ -37,10 +37,10 @@
 			}
 		},
 		{
-			"name": "Regexp",
+			"name": "Regexp", //正则表达式
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#01010100"
+				"foreground": "#232234"
 			}
 		},
 		{
